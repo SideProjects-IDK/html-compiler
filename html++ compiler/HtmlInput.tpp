@@ -1,10 +1,4 @@
-# html++ (A more stupid way of writing ```html```)
-
-> ## ```html++``` is a more ```advancedly```-(stupid) way of writing html.
-
-# Example
-```csharp
-html {
+﻿html {
     head {
         title { My Page }     
     }
@@ -21,11 +15,11 @@ html {
         }
         
         @if i >= 4 {
-            div { This is a dir inside an if block }
+            div { This is a dirqwerev inside an if block }
         } else if i == 3 {
-            div { This is a dir inside an else-if block }
+            div { This is a dirqewrv inside an else-if block }
         } else {
-            div { This is a dir inside an else block }
+            div { This is a deqrwweiv inside an else block }
         }
         
         script() {
@@ -48,11 +42,3 @@ html {
         }
     }
 }
-
-```
-
-> ### HELPFULL NOTE: some of the functions do not work such as ```@for , @if and all of the other ones!```, Enjoy!
-
-- ## Was generally made because: ```I was bored```
-- ## Author: ```hmZa-Sfyn```(Me)
-- ## Date of publish: ```5/11/2024```
